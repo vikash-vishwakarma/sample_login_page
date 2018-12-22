@@ -1,0 +1,39 @@
+ /* css code using here in between closing style */
+body{
+font-family:sans-serif;
+} 
+#test{
+ width:980px;
+ margin:0 auto;
+}
+h1,h3{text-decoration:underline;}
+  button :link{
+text-decoration:none;
+cursor:pointer;
+}
+ul li:hover{
+text-decoration:underline;
+color:black;
+font-size:15px;
+
+}
+p{
+color:red;}
+div{
+border-top:3px solid #f00;
+border-bottom:3px solid #f00;
+border-radius:30px;
+}
+a{
+padding-right:10px;
+}
+
+/*ul{list-style:none;
+
+}*/
+
+ul li{display:inline;} 
+
+button{border-radius: 12px;}
+
+ 
